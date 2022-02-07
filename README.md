@@ -1,4 +1,4 @@
 # Feladatkiiro
 Egy beolvasott dokumentumot feloszt soronkénti kiíráshoz.
 
-Kiírt nyelvek: C#, Python
+Kiírható nyelvek: C#, Python
