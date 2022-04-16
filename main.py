@@ -11,7 +11,7 @@ def ToPrint(nyelv):
 			elif nyelv == "cs":
 				for sor in f:				
 					s = sor.replace("\n", "")
-					s= s.replace("\t", " ")
+					s = s.replace("\t", " ")
 					print(f"Console.WriteLine(\"{s}\")")
 					g.write(f"Console.WriteLine(\"{s}\")\n")
 				g.close
